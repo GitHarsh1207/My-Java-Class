@@ -18,7 +18,13 @@ public class DemoIF {
             else{
                 System.out.println("Currently I'm not in Agra City");
             }
-
+        double x = 2.5;
+            if (x>=3.0){
+                System.out.println("The Value of X is less than 2.5");
+            }
+            else{
+                System.out.println("The Value of X is not less than 2.5");
+            }
         }
 }
 
