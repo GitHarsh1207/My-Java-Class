@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7eae155f-a847-41fb-ab30-9926429a2b80" name="Changes" comment="update on 05.04.2022" />
+    <list default="true" id="7eae155f-a847-41fb-ab30-9926429a2b80" name="Changes" comment="update on 05.04.2022">
+      <change afterPath="$PROJECT_DIR$/src/Operators/operator_arithmetic.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Statements/And_Operator_test.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Statements/Not_Operator_Test.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -94,7 +99,20 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="vcs.Git" />
   </component>
-  <component name="RunManager" selected="Application.DemoIF">
+  <component name="RunManager" selected="Application.operator_arithmetic">
+    <configuration name="And_Operator_test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Statements.And_Operator_test" />
+      <module name="My-Java-Class" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Statements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Demo" />
       <module name="My-Java-Class" />
@@ -115,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="DemoVariables" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Variables.DemoVariables" />
+    <configuration name="Not_Operator_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Statements.Not_Operator_Test" />
       <module name="My-Java-Class" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Variables.*" />
+          <option name="PATTERN" value="Statements.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -128,27 +146,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Main" type="Application" factoryName="Application" temporary="true">
-      <option name="MAIN_CLASS_NAME" value="com.company.Main" />
+    <configuration name="operator_arithmetic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operators.operator_arithmetic" />
       <module name="My-Java-Class" />
-      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
-      <RunnerSettings RunnerId="Run" />
-      <ConfigurationWrapper RunnerId="Run" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Operators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.DemoVariables" />
       <item itemvalue="Application.Demo" />
-      <item itemvalue="Application.Main" />
       <item itemvalue="Application.DemoIF" />
+      <item itemvalue="Application.And_Operator_test" />
+      <item itemvalue="Application.Not_Operator_Test" />
+      <item itemvalue="Application.operator_arithmetic" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.DemoIF" />
-        <item itemvalue="Application.DemoVariables" />
+        <item itemvalue="Application.operator_arithmetic" />
         <item itemvalue="Application.Demo" />
+        <item itemvalue="Application.Not_Operator_Test" />
+        <item itemvalue="Application.And_Operator_test" />
+        <item itemvalue="Application.DemoIF" />
       </list>
     </recent_temporary>
   </component>
@@ -168,7 +192,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649175541477</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="update on 05.04.2022">
+      <created>1649176128871</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1649176128871</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
