@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7eae155f-a847-41fb-ab30-9926429a2b80" name="Changes" comment="update on 05.04.2022">
-      <change afterPath="$PROJECT_DIR$/src/Statements/Case_Switch.java" afterDir="false" />
+    <list default="true" id="7eae155f-a847-41fb-ab30-9926429a2b80" name="Changes" comment="update on 07.04.2022">
+      <change afterPath="$PROJECT_DIR$/src/Loops/Fact_for.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/For_Loop_Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Loops/print_tables_using_for_loop.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -95,22 +97,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="vcs.Git" />
+    <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
-  <component name="RunManager" selected="Application.Case_Switch">
-    <configuration name="And_Operator_test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Statements.And_Operator_test" />
-      <module name="My-Java-Class" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Statements.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.Factorial_using_for_loop">
     <configuration name="Case_Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Statements.Case_Switch" />
       <module name="My-Java-Class" />
@@ -124,19 +113,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Demo" />
+    <configuration name="Factorial_using_for_loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loops.Factorial_using_for_loop" />
       <module name="My-Java-Class" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Not_Operator_Test" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Statements.Not_Operator_Test" />
+    <configuration name="For_Loop_Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loops.For_Loop_Demo" />
       <module name="My-Java-Class" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Statements.*" />
+          <option name="PATTERN" value="Loops.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -157,20 +152,33 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="print_tables_using_for_loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loops.print_tables_using_for_loop" />
+      <module name="My-Java-Class" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <list>
-      <item itemvalue="Application.Demo" />
-      <item itemvalue="Application.And_Operator_test" />
-      <item itemvalue="Application.Not_Operator_Test" />
       <item itemvalue="Application.operator_arithmetic" />
       <item itemvalue="Application.Case_Switch" />
+      <item itemvalue="Application.For_Loop_Demo" />
+      <item itemvalue="Application.print_tables_using_for_loop" />
+      <item itemvalue="Application.Factorial_using_for_loop" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Factorial_using_for_loop" />
+        <item itemvalue="Application.print_tables_using_for_loop" />
+        <item itemvalue="Application.For_Loop_Demo" />
         <item itemvalue="Application.Case_Switch" />
         <item itemvalue="Application.operator_arithmetic" />
-        <item itemvalue="Application.Demo" />
-        <item itemvalue="Application.Not_Operator_Test" />
-        <item itemvalue="Application.And_Operator_test" />
       </list>
     </recent_temporary>
   </component>
@@ -204,7 +212,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649349062359</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="update on 07.04.2022">
+      <created>1649352979803</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1649352979803</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -220,6 +235,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="update on 05.04.2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="update on 05.04.2022" />
+    <MESSAGE value="update on 07.04.2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="update on 07.04.2022" />
   </component>
 </project>
