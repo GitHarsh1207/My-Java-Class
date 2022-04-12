@@ -20,6 +20,18 @@ public class Computer {
         System.out.println("Monitor Size = " +PC1.monitorSize+ " inches");
         System.out.println("Whole Setup Prize = " +PC1.Prize+ " Rs.");
 
+        Computer Laptop = new Computer(); //Object for New Laptop
+
+        Laptop.Type = "Laptop"; // Prize and Configuration modified
+        Laptop.RAM = 16;
+        Laptop.Prize = 80000;
+
+        System.out.println("---Prizes and Configuration for Laptop---");
+        System.out.println("Computer Manufacturer = "+ Laptop.Manufacture);
+        System.out.println("Computer Type = " +Laptop.Type);
+        System.out.println("Computer Processor Speed = " +Laptop.Processor+ "Ghz");
+        System.out.println("Computer RAM Size = " +Laptop.RAM+ " GB");
+        System.out.println("Whole Setup Prize = " +Laptop.Prize+ " Rs.");
     }
 
 

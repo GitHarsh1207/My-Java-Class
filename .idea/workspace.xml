@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7eae155f-a847-41fb-ab30-9926429a2b80" name="Changes" comment="update on 09.04.2022">
-      <change afterPath="$PROJECT_DIR$/src/it_assets_prize_list/Computer.java" afterDir="false" />
+    <list default="true" id="7eae155f-a847-41fb-ab30-9926429a2b80" name="Changes" comment="Class and Object Demo">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/it_assets_prize_list/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/it_assets_prize_list/Computer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -231,7 +231,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649515109536</updated>
     </task>
-    <option name="localTasksCounter" value="7" />
+    <task id="LOCAL-00007" summary="Class and Object Demo">
+      <created>1649774855345</created>
+      <option name="number" value="00007" />
+      <option name="presentableId" value="LOCAL-00007" />
+      <option name="project" value="LOCAL" />
+      <updated>1649774855345</updated>
+    </task>
+    <option name="localTasksCounter" value="8" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -249,6 +256,7 @@
     <MESSAGE value="update on 05.04.2022" />
     <MESSAGE value="update on 07.04.2022" />
     <MESSAGE value="update on 09.04.2022" />
-    <option name="LAST_COMMIT_MESSAGE" value="update on 09.04.2022" />
+    <MESSAGE value="Class and Object Demo" />
+    <option name="LAST_COMMIT_MESSAGE" value="Class and Object Demo" />
   </component>
 </project>
