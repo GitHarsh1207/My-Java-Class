@@ -2,8 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7eae155f-a847-41fb-ab30-9926429a2b80" name="Changes" comment="update on 09.04.2022">
+      <change afterPath="$PROJECT_DIR$/src/it_assets_prize_list/Computer.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Loops/print_tables_using_for_loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loops/print_tables_using_for_loop.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,13 +97,26 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
-  <component name="RunManager" selected="Application.print_tables_using_for_loop">
+  <component name="RunManager" selected="Application.Computer">
     <configuration name="Case_Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Statements.Case_Switch" />
       <module name="My-Java-Class" />
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="Statements.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Computer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="it_assets_prize_list.Computer" />
+      <module name="My-Java-Class" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="it_assets_prize_list.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,19 +150,6 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="operator_arithmetic" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Operators.operator_arithmetic" />
-      <module name="My-Java-Class" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Operators.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <configuration name="print_tables_using_for_loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Loops.print_tables_using_for_loop" />
       <module name="My-Java-Class" />
@@ -164,19 +164,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.operator_arithmetic" />
       <item itemvalue="Application.Case_Switch" />
+      <item itemvalue="Application.Factorial_using_for_loop" />
       <item itemvalue="Application.For_Loop_Demo" />
       <item itemvalue="Application.print_tables_using_for_loop" />
-      <item itemvalue="Application.Factorial_using_for_loop" />
+      <item itemvalue="Application.Computer" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Computer" />
         <item itemvalue="Application.print_tables_using_for_loop" />
         <item itemvalue="Application.Factorial_using_for_loop" />
         <item itemvalue="Application.For_Loop_Demo" />
         <item itemvalue="Application.Case_Switch" />
-        <item itemvalue="Application.operator_arithmetic" />
       </list>
     </recent_temporary>
   </component>
@@ -224,7 +224,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649514729474</updated>
     </task>
-    <option name="localTasksCounter" value="6" />
+    <task id="LOCAL-00006" summary="update on 09.04.2022">
+      <created>1649515109536</created>
+      <option name="number" value="00006" />
+      <option name="presentableId" value="LOCAL-00006" />
+      <option name="project" value="LOCAL" />
+      <updated>1649515109536</updated>
+    </task>
+    <option name="localTasksCounter" value="7" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
