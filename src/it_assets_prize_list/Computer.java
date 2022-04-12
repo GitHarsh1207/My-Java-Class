@@ -33,6 +33,4 @@ public class Computer {
         System.out.println("Computer RAM Size = " +Laptop.RAM+ " GB");
         System.out.println("Whole Setup Prize = " +Laptop.Prize+ " Rs.");
     }
-
-
 }
