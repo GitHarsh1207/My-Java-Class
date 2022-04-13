@@ -1,12 +1,10 @@
 package Class_and_Objects;
-
 public class parameterized_constructor_demo {
-String Name;
-String Department;
-int idNumber;
-int Salary;
-                //parameterized constructor
-
+    String Name;
+    String Department;
+    int idNumber;
+    int Salary;
+    //parameterized constructor
 
     public parameterized_constructor_demo(String name, String department, int idNumber, int salary) {
         Name = name;
@@ -15,7 +13,7 @@ int Salary;
         Salary = salary;
     }
     public static void main(String[] args) {
-    parameterized_constructor_demo Employee1 = new parameterized_constructor_demo("Rakesh","Sales",2348,50000);
+        parameterized_constructor_demo Employee1 = new parameterized_constructor_demo("Rakesh","Sales",2348,50000);
         parameterized_constructor_demo Employee2 = new parameterized_constructor_demo("Abhilash","Media",2349,41000);
         parameterized_constructor_demo Employee3 = new parameterized_constructor_demo("Sourabh","Marketing",2350,38000);
         System.out.println("\n-----------------------------Employee1 Data");
