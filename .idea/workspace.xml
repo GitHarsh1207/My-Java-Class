@@ -2,8 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7eae155f-a847-41fb-ab30-9926429a2b80" name="Changes" comment="Class and Object Demo">
+      <change afterPath="$PROJECT_DIR$/src/Class_and_Objects/parameterized_constructor_demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operators/adtion_3_numbers.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/it_assets_prize_list/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/it_assets_prize_list/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/it_assets_prize_list/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class_and_Objects/Computer.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,26 +99,13 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="preferences.editor" />
   </component>
-  <component name="RunManager" selected="Application.Computer">
-    <configuration name="Case_Switch" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Statements.Case_Switch" />
-      <module name="My-Java-Class" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Statements.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.parameterized_constructor_demo">
     <configuration name="Computer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="it_assets_prize_list.Computer" />
+      <option name="MAIN_CLASS_NAME" value="Class_and_Objects.Computer" />
       <module name="My-Java-Class" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="it_assets_prize_list.*" />
+          <option name="PATTERN" value="Class_and_Objects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,12 +126,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="For_Loop_Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loops.For_Loop_Demo" />
+    <configuration name="adtion_3_numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operators.adtion_3_numbers" />
       <module name="My-Java-Class" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Loops.*" />
+          <option name="PATTERN" value="Operators.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="parameterized_constructor_demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class_and_Objects.parameterized_constructor_demo" />
+      <module name="My-Java-Class" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class_and_Objects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,19 +166,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Case_Switch" />
-      <item itemvalue="Application.Factorial_using_for_loop" />
-      <item itemvalue="Application.For_Loop_Demo" />
-      <item itemvalue="Application.print_tables_using_for_loop" />
       <item itemvalue="Application.Computer" />
+      <item itemvalue="Application.Factorial_using_for_loop" />
+      <item itemvalue="Application.adtion_3_numbers" />
+      <item itemvalue="Application.print_tables_using_for_loop" />
+      <item itemvalue="Application.parameterized_constructor_demo" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.parameterized_constructor_demo" />
+        <item itemvalue="Application.adtion_3_numbers" />
         <item itemvalue="Application.Computer" />
         <item itemvalue="Application.print_tables_using_for_loop" />
         <item itemvalue="Application.Factorial_using_for_loop" />
-        <item itemvalue="Application.For_Loop_Demo" />
-        <item itemvalue="Application.Case_Switch" />
       </list>
     </recent_temporary>
   </component>
@@ -238,7 +240,21 @@
       <option name="project" value="LOCAL" />
       <updated>1649774855345</updated>
     </task>
-    <option name="localTasksCounter" value="8" />
+    <task id="LOCAL-00008" summary="Class and Object Demo">
+      <created>1649775533269</created>
+      <option name="number" value="00008" />
+      <option name="presentableId" value="LOCAL-00008" />
+      <option name="project" value="LOCAL" />
+      <updated>1649775533270</updated>
+    </task>
+    <task id="LOCAL-00009" summary="Class and Object Demo">
+      <created>1649775627001</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1649775627001</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">

@@ -1,4 +1,4 @@
-package it_assets_prize_list;
+package Class_and_Objects;
 
 public class Computer {
 
