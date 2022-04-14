@@ -2,7 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7eae155f-a847-41fb-ab30-9926429a2b80" name="Changes" comment="Class and Object-parameterized_constructor_13.04">
-      <change beforePath="$PROJECT_DIR$/src/Class_and_Objects/parameterized_constructor_demo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class_and_Objects/parameterized_constructor_demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Operators/airthemetic_operations.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -94,9 +95,9 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="preferences.editor" />
+    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="Application.parameterized_constructor_demo">
+  <component name="RunManager" selected="Application.airthemetic_operations">
     <configuration name="Computer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Class_and_Objects.Computer" />
       <module name="My-Java-Class" />
@@ -110,12 +111,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Factorial_using_for_loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loops.Factorial_using_for_loop" />
+    <configuration name="adtion_3_numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operators.adtion_3_numbers" />
       <module name="My-Java-Class" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Loops.*" />
+          <option name="PATTERN" value="Operators.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -123,8 +124,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="adtion_3_numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Operators.adtion_3_numbers" />
+    <configuration name="airthemetic_operations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operators.airthemetic_operations" />
       <module name="My-Java-Class" />
       <extension name="coverage">
         <pattern>
@@ -164,18 +165,18 @@
     </configuration>
     <list>
       <item itemvalue="Application.Computer" />
-      <item itemvalue="Application.Factorial_using_for_loop" />
       <item itemvalue="Application.adtion_3_numbers" />
       <item itemvalue="Application.print_tables_using_for_loop" />
       <item itemvalue="Application.parameterized_constructor_demo" />
+      <item itemvalue="Application.airthemetic_operations" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.airthemetic_operations" />
         <item itemvalue="Application.parameterized_constructor_demo" />
         <item itemvalue="Application.adtion_3_numbers" />
         <item itemvalue="Application.Computer" />
         <item itemvalue="Application.print_tables_using_for_loop" />
-        <item itemvalue="Application.Factorial_using_for_loop" />
       </list>
     </recent_temporary>
   </component>
@@ -258,7 +259,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649862003454</updated>
     </task>
-    <option name="localTasksCounter" value="11" />
+    <task id="LOCAL-00011" summary="Class and Object-parameterized_constructor_13.04">
+      <created>1649862262611</created>
+      <option name="number" value="00011" />
+      <option name="presentableId" value="LOCAL-00011" />
+      <option name="project" value="LOCAL" />
+      <updated>1649862262611</updated>
+    </task>
+    <option name="localTasksCounter" value="12" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
