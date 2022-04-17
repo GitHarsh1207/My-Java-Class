@@ -2,7 +2,7 @@ package Class_and_Objects;
 
 public class Computer {
 
-    //New Desktop Prize and Configuration
+                                                                        //New Desktop Prize and Configuration
     String Manufacture ="HP";
     String Type = "Desktop";
     int monitorSize =21;
@@ -11,7 +11,7 @@ public class Computer {
     int Prize =60000;
     public static void main(String[] args) {
         Computer PC1 = new Computer();
-        // Object for New PC1
+                                                                         // Object for New PC1
 
         System.out.println("Computer Manufacturer = "+ PC1.Manufacture);
         System.out.println("Computer Type = " +PC1.Type);
@@ -20,9 +20,9 @@ public class Computer {
         System.out.println("Monitor Size = " +PC1.monitorSize+ " inches");
         System.out.println("Whole Setup Prize = " +PC1.Prize+ " Rs.");
 
-        Computer Laptop = new Computer(); //Object for New Laptop
+        Computer Laptop = new Computer();                               //Object for New Laptop
 
-        Laptop.Type = "Laptop"; // Prize and Configuration modified
+        Laptop.Type = "Laptop";                                         // Prize and Configuration modified
         Laptop.RAM = 16;
         Laptop.Prize = 80000;
 

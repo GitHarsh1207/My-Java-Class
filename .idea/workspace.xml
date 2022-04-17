@@ -1,9 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7eae155f-a847-41fb-ab30-9926429a2b80" name="Changes" comment="Class and Object-parameterized_constructor_13.04">
-      <change afterPath="$PROJECT_DIR$/src/Operators/airthemetic_operations.java" afterDir="false" />
+    <list default="true" id="7eae155f-a847-41fb-ab30-9926429a2b80" name="Changes" comment="Methods_Declaration class 15.04">
+      <change afterPath="$PROJECT_DIR$/src/Class_and_Objects/Harsh_activity.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Class_and_Objects/Methods_Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class_and_Objects/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class_and_Objects/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Operators/airthemetic_operations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operators/arithmetic_operations_userinput.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -97,9 +100,9 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="Application.airthemetic_operations">
-    <configuration name="Computer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class_and_Objects.Computer" />
+  <component name="RunManager" selected="Application.Harsh_activity">
+    <configuration name="Harsh_activity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class_and_Objects.Harsh_activity" />
       <module name="My-Java-Class" />
       <extension name="coverage">
         <pattern>
@@ -111,12 +114,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="adtion_3_numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Operators.adtion_3_numbers" />
+    <configuration name="Methods_Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class_and_Objects.Methods_Student" />
       <module name="My-Java-Class" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Operators.*" />
+          <option name="PATTERN" value="Class_and_Objects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,8 +127,21 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="airthemetic_operations" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Operators.airthemetic_operations" />
+    <configuration name="Simple_boy_activity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Loops.Simple_boy_activity" />
+      <module name="My-Java-Class" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Loops.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="arithmetic_operations_userinput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Operators.arithmetic_operations_userinput" />
       <module name="My-Java-Class" />
       <extension name="coverage">
         <pattern>
@@ -150,33 +166,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="print_tables_using_for_loop" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loops.print_tables_using_for_loop" />
-      <module name="My-Java-Class" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Loops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.Computer" />
-      <item itemvalue="Application.adtion_3_numbers" />
-      <item itemvalue="Application.print_tables_using_for_loop" />
       <item itemvalue="Application.parameterized_constructor_demo" />
-      <item itemvalue="Application.airthemetic_operations" />
+      <item itemvalue="Application.arithmetic_operations_userinput" />
+      <item itemvalue="Application.Methods_Student" />
+      <item itemvalue="Application.Harsh_activity" />
+      <item itemvalue="Application.Simple_boy_activity" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.airthemetic_operations" />
+        <item itemvalue="Application.Harsh_activity" />
+        <item itemvalue="Application.Simple_boy_activity" />
+        <item itemvalue="Application.Methods_Student" />
+        <item itemvalue="Application.arithmetic_operations_userinput" />
         <item itemvalue="Application.parameterized_constructor_demo" />
-        <item itemvalue="Application.adtion_3_numbers" />
-        <item itemvalue="Application.Computer" />
-        <item itemvalue="Application.print_tables_using_for_loop" />
       </list>
     </recent_temporary>
   </component>
@@ -266,7 +269,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649862262611</updated>
     </task>
-    <option name="localTasksCounter" value="12" />
+    <task id="LOCAL-00012" summary="airthemetic_operations by user's choice">
+      <created>1649949540127</created>
+      <option name="number" value="00012" />
+      <option name="presentableId" value="LOCAL-00012" />
+      <option name="project" value="LOCAL" />
+      <updated>1649949540127</updated>
+    </task>
+    <option name="localTasksCounter" value="13" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -286,6 +296,8 @@
     <MESSAGE value="update on 09.04.2022" />
     <MESSAGE value="Class and Object Demo" />
     <MESSAGE value="Class and Object-parameterized_constructor_13.04" />
-    <option name="LAST_COMMIT_MESSAGE" value="Class and Object-parameterized_constructor_13.04" />
+    <MESSAGE value="airthemetic_operations by user's choice" />
+    <MESSAGE value="Methods_Declaration class 15.04" />
+    <option name="LAST_COMMIT_MESSAGE" value="Methods_Declaration class 15.04" />
   </component>
 </project>
