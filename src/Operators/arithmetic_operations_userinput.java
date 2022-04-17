@@ -7,14 +7,14 @@ public class arithmetic_operations_userinput {
     public static void main(String[] args) {
         Scanner scanner = new Scanner(System.in);            //New Object for reading user input
         String flag="yes";
+        do {
         System.out.print("Please Enter the value of A: ");
         int a = scanner.nextInt();                           // for reading & storing value of a.
         System.out.print("Please Enter the value of B2: ");
         int b = scanner.nextInt();                           // for reading & storing value of b.
         int sum = a + b, sub = a - b, mul = a * b;
         double div = a / b;
-        while (flag == "yes") {
-            System.out.println("\n");
+
             System.out.println("Please select one operation listed below");
             System.out.println("\n--------------------------------");
             System.out.println("Please type sum for addition");
@@ -36,10 +36,9 @@ public class arithmetic_operations_userinput {
             }
             System.out.println("Do you want to try another operation:");
             Scanner scanner3 = new Scanner(System.in);
-            String flag1 = scanner3.next();
-                flag=flag1;
-            break;
+            flag = scanner3.next();
         }
+        while(flag=="yes" || flag.equals("yes"));
     }
 }
 

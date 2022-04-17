@@ -2,11 +2,8 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7eae155f-a847-41fb-ab30-9926429a2b80" name="Changes" comment="Methods_Declaration class 15.04">
-      <change afterPath="$PROJECT_DIR$/src/Class_and_Objects/Harsh_activity.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Class_and_Objects/Methods_Student.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Class_and_Objects/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class_and_Objects/Computer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Operators/airthemetic_operations.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operators/arithmetic_operations_userinput.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Operators/arithmetic_operations_userinput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operators/arithmetic_operations_userinput.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -100,7 +97,7 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="Application.Harsh_activity">
+  <component name="RunManager" selected="Application.arithmetic_operations_userinput">
     <configuration name="Harsh_activity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Class_and_Objects.Harsh_activity" />
       <module name="My-Java-Class" />
@@ -175,10 +172,10 @@
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.arithmetic_operations_userinput" />
         <item itemvalue="Application.Harsh_activity" />
         <item itemvalue="Application.Simple_boy_activity" />
         <item itemvalue="Application.Methods_Student" />
-        <item itemvalue="Application.arithmetic_operations_userinput" />
         <item itemvalue="Application.parameterized_constructor_demo" />
       </list>
     </recent_temporary>
@@ -276,7 +273,14 @@
       <option name="project" value="LOCAL" />
       <updated>1649949540127</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="Methods_Declaration class 15.04">
+      <created>1650219099960</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1650219099960</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
