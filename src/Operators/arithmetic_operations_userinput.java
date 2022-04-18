@@ -10,7 +10,7 @@ public class arithmetic_operations_userinput {
         do {
         System.out.print("Please Enter the value of A: ");
         int a = scanner.nextInt();                           // for reading & storing value of a.
-        System.out.print("Please Enter the value of B2: ");
+        System.out.print("Please Enter the value of B: ");
         int b = scanner.nextInt();                           // for reading & storing value of b.
         int sum = a + b, sub = a - b, mul = a * b;
         double div = a / b;

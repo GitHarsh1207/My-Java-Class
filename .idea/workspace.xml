@@ -2,6 +2,7 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7eae155f-a847-41fb-ab30-9926429a2b80" name="Changes" comment="Methods_Declaration class 15.04">
+      <change afterPath="$PROJECT_DIR$/src/Methods/Calc_by_using_methods.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Operators/arithmetic_operations_userinput.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Operators/arithmetic_operations_userinput.java" afterDir="false" />
     </list>
@@ -97,7 +98,20 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="Application.arithmetic_operations_userinput">
+  <component name="RunManager" selected="Application.Calc_by_using_methods">
+    <configuration name="Calc_by_using_methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Methods.Calc_by_using_methods" />
+      <module name="My-Java-Class" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Methods.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="Harsh_activity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Class_and_Objects.Harsh_activity" />
       <module name="My-Java-Class" />
@@ -150,33 +164,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="parameterized_constructor_demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class_and_Objects.parameterized_constructor_demo" />
-      <module name="My-Java-Class" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Class_and_Objects.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.parameterized_constructor_demo" />
       <item itemvalue="Application.arithmetic_operations_userinput" />
       <item itemvalue="Application.Methods_Student" />
       <item itemvalue="Application.Harsh_activity" />
       <item itemvalue="Application.Simple_boy_activity" />
+      <item itemvalue="Application.Calc_by_using_methods" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Calc_by_using_methods" />
         <item itemvalue="Application.arithmetic_operations_userinput" />
         <item itemvalue="Application.Harsh_activity" />
         <item itemvalue="Application.Simple_boy_activity" />
         <item itemvalue="Application.Methods_Student" />
-        <item itemvalue="Application.parameterized_constructor_demo" />
       </list>
     </recent_temporary>
   </component>
@@ -280,7 +281,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650219099960</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Methods_Declaration class 15.04">
+      <created>1650220384885</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1650220384885</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
