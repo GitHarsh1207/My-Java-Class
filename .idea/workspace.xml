@@ -2,6 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7eae155f-a847-41fb-ab30-9926429a2b80" name="Changes" comment="calculator_using_methods_userinput_18.04">
+      <change afterPath="$PROJECT_DIR$/src/Assignments_23_04_2022/Armstrong_numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments_23_04_2022/Palindrome_numbers.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Assignments_23_04_2022/Swapping_without_3rd_variable.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Methods/Calc_returntype.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/Methods/Calc_by_using_methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Methods/Calc_by_using_methods.java" afterDir="false" />
     </list>
@@ -97,9 +101,27 @@
   <component name="PropertiesComponent">
     <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
   </component>
-  <component name="RunManager" selected="Application.Calc_by_using_methods">
-    <configuration name="Calc_by_using_methods" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Methods.Calc_by_using_methods" />
+  <component name="RecentsManager">
+    <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="Methods" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Application.Palindrome_numbers">
+    <configuration name="Armstrong_numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignments_23_04_2022.Armstrong_numbers" />
+      <module name="My-Java-Class" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Assignments_23_04_2022.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Calc_by_using_methods_returntype" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Methods.Calc_by_using_methods_returntype" />
       <module name="My-Java-Class" />
       <extension name="coverage">
         <pattern>
@@ -111,12 +133,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Harsh_activity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class_and_Objects.Harsh_activity" />
+    <configuration name="Calc_returntype" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Methods.Calc_returntype" />
       <module name="My-Java-Class" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class_and_Objects.*" />
+          <option name="PATTERN" value="Methods.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -124,12 +146,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Methods_Student" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class_and_Objects.Methods_Student" />
+    <configuration name="Palindrome_numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignments_23_04_2022.Palindrome_numbers" />
       <module name="My-Java-Class" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class_and_Objects.*" />
+          <option name="PATTERN" value="Assignments_23_04_2022.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -137,25 +159,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Simple_boy_activity" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loops.Simple_boy_activity" />
+    <configuration name="Swapping_without_3rd_variable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Assignments_23_04_2022.Swapping_without_3rd_variable" />
       <module name="My-Java-Class" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Loops.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="arithmetic_operations_userinput" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Operators.arithmetic_operations_userinput" />
-      <module name="My-Java-Class" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Operators.*" />
+          <option name="PATTERN" value="Assignments_23_04_2022.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -164,19 +173,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.arithmetic_operations_userinput" />
-      <item itemvalue="Application.Methods_Student" />
-      <item itemvalue="Application.Harsh_activity" />
-      <item itemvalue="Application.Simple_boy_activity" />
-      <item itemvalue="Application.Calc_by_using_methods" />
+      <item itemvalue="Application.Calc_by_using_methods_returntype" />
+      <item itemvalue="Application.Calc_returntype" />
+      <item itemvalue="Application.Swapping_without_3rd_variable" />
+      <item itemvalue="Application.Armstrong_numbers" />
+      <item itemvalue="Application.Palindrome_numbers" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Calc_by_using_methods" />
-        <item itemvalue="Application.arithmetic_operations_userinput" />
-        <item itemvalue="Application.Harsh_activity" />
-        <item itemvalue="Application.Simple_boy_activity" />
-        <item itemvalue="Application.Methods_Student" />
+        <item itemvalue="Application.Palindrome_numbers" />
+        <item itemvalue="Application.Armstrong_numbers" />
+        <item itemvalue="Application.Swapping_without_3rd_variable" />
+        <item itemvalue="Application.Calc_returntype" />
+        <item itemvalue="Application.Calc_by_using_methods_returntype" />
       </list>
     </recent_temporary>
   </component>
@@ -294,7 +303,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650303262092</updated>
     </task>
-    <option name="localTasksCounter" value="16" />
+    <task id="LOCAL-00016" summary="calculator_using_methods_userinput_18.04">
+      <created>1650304816587</created>
+      <option name="number" value="00016" />
+      <option name="presentableId" value="LOCAL-00016" />
+      <option name="project" value="LOCAL" />
+      <updated>1650304816587</updated>
+    </task>
+    <option name="localTasksCounter" value="17" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -318,5 +334,26 @@
     <MESSAGE value="Methods_Declaration class 15.04" />
     <MESSAGE value="calculator_using_methods_userinput_18.04" />
     <option name="LAST_COMMIT_MESSAGE" value="calculator_using_methods_userinput_18.04" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Assignments_23_04_2022/Armstrong_numbers.java</url>
+          <line>12</line>
+          <option name="timeStamp" value="4" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Assignments_23_04_2022/Palindrome_numbers.java</url>
+          <line>14</line>
+          <option name="timeStamp" value="5" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/My_Java_Class$Calc_returntype.ic" NAME="Calc_returntype Coverage Results" MODIFIED="1650475834094" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>Methods.*</FILTER>
+    </SUITE>
   </component>
 </project>

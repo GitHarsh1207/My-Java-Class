@@ -1,6 +1,5 @@
 package Methods;
 
-import java.sql.SQLOutput;
 import java.util.Scanner;
 
 public class Calc_by_using_methods {
