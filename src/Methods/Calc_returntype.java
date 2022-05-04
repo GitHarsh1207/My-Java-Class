@@ -49,11 +49,11 @@ public class Calc_returntype {
         int ans1 = result.addition();
         System.out.println("The addition of A & B : "+ans1);
         int ans2 = result.subtraction();
-        System.out.println("The addition of A & B : "+ans2);
+        System.out.println("The Subtraction of A & B : "+ans2);
         int ans3 = result.multiplication();
-        System.out.println("The addition of A & B : "+ans3);
+        System.out.println("The Multiplication of A & B : "+ans3);
         int ans4 = result.division();
-        System.out.println("The addition of A & B : "+ans4);
-
+        System.out.println("The division of A & B : "+ans4);
+        System.out.println("The division of A & B : " +result.division()); // 2nd way print result much faster than above.
     }
 }

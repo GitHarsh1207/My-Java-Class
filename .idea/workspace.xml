@@ -1,13 +1,15 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7eae155f-a847-41fb-ab30-9926429a2b80" name="Changes" comment="calculator_using_methods_userinput_18.04">
-      <change afterPath="$PROJECT_DIR$/src/Assignments_23_04_2022/Armstrong_numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignments_23_04_2022/Palindrome_numbers.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Assignments_23_04_2022/Swapping_without_3rd_variable.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/Methods/Calc_returntype.java" afterDir="false" />
+    <list default="true" id="7eae155f-a847-41fb-ab30-9926429a2b80" name="Changes" comment="Assignments_23.04.2022">
+      <change afterPath="$PROJECT_DIR$/src/Collections/Collection_Demo.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/collection_with_generics.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array_operations/Demo_arrays.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/array_operations/sum_of_two_arrays.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Methods/Calc_by_using_methods.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Methods/Calc_by_using_methods.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Class_and_Objects/Computer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Class_and_Objects/Computer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loops/print_tables_using_for_loop.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Loops/print_tables_using_for_loop.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Methods/Calc_returntype.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Methods/Calc_returntype.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -18,6 +20,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -31,6 +34,9 @@
       <filtered-out-file-type name="TAG" />
       <filtered-out-file-type name="COMMIT_BY_MESSAGE" />
     </file-type-list>
+  </component>
+  <component name="GithubDefaultAccount">
+    <option name="defaultAccountId" value="2b37c5ba-340f-4056-a5f1-66cd616d6afd" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -99,40 +105,15 @@
     <option name="showLibraryContents" value="true" />
   </component>
   <component name="PropertiesComponent">
-    <property name="settings.editor.selected.configurable" value="reference.settingsdialog.IDE.editor.colors" />
+    <property name="ToolWindowRun.ShowToolbar" value="false" />
+    <property name="settings.editor.selected.configurable" value="org.jetbrains.plugins.github.ui.GithubSettingsConfigurable" />
   </component>
   <component name="RecentsManager">
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="Methods" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.Palindrome_numbers">
-    <configuration name="Armstrong_numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignments_23_04_2022.Armstrong_numbers" />
-      <module name="My-Java-Class" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Assignments_23_04_2022.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
-    <configuration name="Calc_by_using_methods_returntype" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Methods.Calc_by_using_methods_returntype" />
-      <module name="My-Java-Class" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Methods.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
+  <component name="RunManager" selected="Application.collection_with_generics">
     <configuration name="Calc_returntype" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Methods.Calc_returntype" />
       <module name="My-Java-Class" />
@@ -146,12 +127,12 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Palindrome_numbers" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignments_23_04_2022.Palindrome_numbers" />
+    <configuration name="Collection_Demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.Collection_Demo" />
       <module name="My-Java-Class" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Assignments_23_04_2022.*" />
+          <option name="PATTERN" value="Collections.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -159,12 +140,38 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Swapping_without_3rd_variable" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Assignments_23_04_2022.Swapping_without_3rd_variable" />
+    <configuration name="Computer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class_and_Objects.Computer" />
       <module name="My-Java-Class" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Assignments_23_04_2022.*" />
+          <option name="PATTERN" value="Class_and_Objects.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="collection_with_generics" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.collection_with_generics" />
+      <module name="My-Java-Class" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Collections.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="parameterized_constructor_demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Class_and_Objects.parameterized_constructor_demo" />
+      <module name="My-Java-Class" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Class_and_Objects.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -173,19 +180,19 @@
       </method>
     </configuration>
     <list>
-      <item itemvalue="Application.Calc_by_using_methods_returntype" />
+      <item itemvalue="Application.Collection_Demo" />
+      <item itemvalue="Application.Computer" />
+      <item itemvalue="Application.parameterized_constructor_demo" />
       <item itemvalue="Application.Calc_returntype" />
-      <item itemvalue="Application.Swapping_without_3rd_variable" />
-      <item itemvalue="Application.Armstrong_numbers" />
-      <item itemvalue="Application.Palindrome_numbers" />
+      <item itemvalue="Application.collection_with_generics" />
     </list>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Palindrome_numbers" />
-        <item itemvalue="Application.Armstrong_numbers" />
-        <item itemvalue="Application.Swapping_without_3rd_variable" />
+        <item itemvalue="Application.collection_with_generics" />
         <item itemvalue="Application.Calc_returntype" />
-        <item itemvalue="Application.Calc_by_using_methods_returntype" />
+        <item itemvalue="Application.parameterized_constructor_demo" />
+        <item itemvalue="Application.Computer" />
+        <item itemvalue="Application.Collection_Demo" />
       </list>
     </recent_temporary>
   </component>
@@ -310,7 +317,14 @@
       <option name="project" value="LOCAL" />
       <updated>1650304816587</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Assignments_23.04.2022">
+      <created>1650727126063</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1650727126063</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -333,7 +347,8 @@
     <MESSAGE value="airthemetic_operations by user's choice" />
     <MESSAGE value="Methods_Declaration class 15.04" />
     <MESSAGE value="calculator_using_methods_userinput_18.04" />
-    <option name="LAST_COMMIT_MESSAGE" value="calculator_using_methods_userinput_18.04" />
+    <MESSAGE value="Assignments_23.04.2022" />
+    <option name="LAST_COMMIT_MESSAGE" value="Assignments_23.04.2022" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
@@ -347,6 +362,11 @@
           <url>file://$PROJECT_DIR$/src/Assignments_23_04_2022/Palindrome_numbers.java</url>
           <line>14</line>
           <option name="timeStamp" value="5" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" type="java-line">
+          <url>file://$PROJECT_DIR$/src/Statements/Case_Switch.java</url>
+          <line>11</line>
+          <option name="timeStamp" value="7" />
         </line-breakpoint>
       </breakpoints>
     </breakpoint-manager>

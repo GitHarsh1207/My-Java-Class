@@ -27,10 +27,10 @@ public class Computer {
         Laptop.Prize = 80000;
 
         System.out.println("---Prizes and Configuration for Laptop---");
-        System.out.println("Computer Manufacturer = "+ Laptop.Manufacture);
-        System.out.println("Computer Type = " +Laptop.Type);
-        System.out.println("Computer Processor Speed = " +Laptop.Processor+ "Ghz");
-        System.out.println("Computer RAM Size = " +Laptop.RAM+ " GB");
+        System.out.println("Laptop Manufacturer = "+ Laptop.Manufacture);
+        System.out.println("Laptop Type = " +Laptop.Type);
+        System.out.println("Laptop Processor Speed = " +Laptop.Processor+ "Ghz");
+        System.out.println("Laptop RAM Size = " +Laptop.RAM+ " GB");
         System.out.println("Whole Setup Prize = " +Laptop.Prize+ " Rs.");
     }
 }
