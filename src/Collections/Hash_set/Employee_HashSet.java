@@ -6,7 +6,7 @@ import java.util.ArrayList;
 import java.util.HashSet;
 
 public class Employee_HashSet {
-    public HashSet<Employee_data> employeeData() {
+    public HashSet<Employee_data> employeeData() {                  // Customize Data type <Employee_data calling from model class
 
         HashSet<Employee_data> emp_list = new HashSet<>();
 
@@ -31,7 +31,13 @@ public class Employee_HashSet {
 
         HashSet<Employee_data> result = object.employeeData();
 
-        for(Employee_data var : result){
+        for(Employee_data var : result){                                    // Customized data type that Employee_data
+            if(var.getName().equals("Nitin Kumar")) {
+                var.setName("Harsh Vardhan");
+            if(var.getSalary()==27500){
+                var.setSalary(80000);
+            }
+            }
             System.out.println("<<--Employees _ Record-->>  " + " Name: " + var.getName() + " Id_Number: " + var.getIdNumber() + " Department: " + var.getDepartment() + " Salary: " + var.getSalary());
         }
     }
