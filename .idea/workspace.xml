@@ -1,10 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="7eae155f-a847-41fb-ab30-9926429a2b80" name="Changes" comment="Revision on 04.05.22">
-      <change afterPath="$PROJECT_DIR$/src/Collections/array_list_demo/employee_array_list.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/model/Employee_data.java" afterDir="false" />
+    <list default="true" id="7eae155f-a847-41fb-ab30-9926429a2b80" name="Changes" comment="Revision on 05.05.22">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Collections/array_list_demo/employee_array_list.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/array_list_demo/employee_array_list.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -327,7 +326,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651684808801</updated>
     </task>
-    <option name="localTasksCounter" value="19" />
+    <task id="LOCAL-00019" summary="Revision on 05.05.22">
+      <created>1651763406936</created>
+      <option name="number" value="00019" />
+      <option name="presentableId" value="LOCAL-00019" />
+      <option name="project" value="LOCAL" />
+      <updated>1651763406936</updated>
+    </task>
+    <option name="localTasksCounter" value="20" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
@@ -352,7 +358,8 @@
     <MESSAGE value="calculator_using_methods_userinput_18.04" />
     <MESSAGE value="Assignments_23.04.2022" />
     <MESSAGE value="Revision on 04.05.22" />
-    <option name="LAST_COMMIT_MESSAGE" value="Revision on 04.05.22" />
+    <MESSAGE value="Revision on 05.05.22" />
+    <option name="LAST_COMMIT_MESSAGE" value="Revision on 05.05.22" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>

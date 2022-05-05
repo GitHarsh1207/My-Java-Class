@@ -30,9 +30,11 @@ public class employee_array_list {
         }
         System.out.println("\n after made some changes===================");
         for (Employee_data var:List) {
-            if(var.getName().equals("Nitin Kumar"))
-            var.setName("Rahul Kumar");
-
+            if(var.getName().equals("Nitin Kumar")){          //.equals method is used to compare string data
+                var.setName("Rahul Kumar");                   //changing in data like Nitin Kumar with Rahul Kumar
+                if(var.getSalary() == 27500)                  //  and also the salary changed in 70000 instead of 27500
+                    var.setSalary(70000);
+            }
             System.out.println("<<--Employees _ Record-->>  " + " Name: " + var.getName() + " Id_Number: " + var.getIdNumber() + " Department: " + var.getDepartment() + " Salary: " + var.getSalary());
         }
     }
