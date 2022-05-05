@@ -2,8 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="7eae155f-a847-41fb-ab30-9926429a2b80" name="Changes" comment="Revision on 05.05.22">
+      <change afterPath="$PROJECT_DIR$/src/Collections/Hash_set/Employee_HashSet.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Collections/Hash_set/Hash_set_demo.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/Collections/array_list_demo/employee_array_list.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Collections/array_list_demo/employee_array_list.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -108,7 +109,7 @@
       <recent name="Methods" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.employee_array_list">
+  <component name="RunManager" selected="Application.Employee_HashSet">
     <configuration name="Calc_returntype" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="Methods.Calc_returntype" />
       <module name="My-Java-Class" />
@@ -122,12 +123,25 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Computer" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class_and_Objects.Computer" />
+    <configuration name="Employee_HashSet" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.Hash_set.Employee_HashSet" />
       <module name="My-Java-Class" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="Class_and_Objects.*" />
+          <option name="PATTERN" value="Collections.Hash_set.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="Hash_set_demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="Collections.Hash_set.Hash_set_demo" />
+      <module name="My-Java-Class" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="Collections.Hash_set.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -161,33 +175,20 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="parameterized_constructor_demo" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Class_and_Objects.parameterized_constructor_demo" />
-      <module name="My-Java-Class" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="Class_and_Objects.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-      <method v="2">
-        <option name="Make" enabled="true" />
-      </method>
-    </configuration>
     <list>
-      <item itemvalue="Application.Computer" />
-      <item itemvalue="Application.parameterized_constructor_demo" />
       <item itemvalue="Application.Calc_returntype" />
       <item itemvalue="Application.collection_with_generics" />
       <item itemvalue="Application.employee_array_list" />
+      <item itemvalue="Application.Hash_set_demo" />
+      <item itemvalue="Application.Employee_HashSet" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Employee_HashSet" />
+        <item itemvalue="Application.Hash_set_demo" />
         <item itemvalue="Application.employee_array_list" />
         <item itemvalue="Application.collection_with_generics" />
         <item itemvalue="Application.Calc_returntype" />
-        <item itemvalue="Application.parameterized_constructor_demo" />
-        <item itemvalue="Application.Computer" />
       </list>
     </recent_temporary>
   </component>
@@ -333,7 +334,14 @@
       <option name="project" value="LOCAL" />
       <updated>1651763406936</updated>
     </task>
-    <option name="localTasksCounter" value="20" />
+    <task id="LOCAL-00020" summary="Revision on 05.05.22">
+      <created>1651770732409</created>
+      <option name="number" value="00020" />
+      <option name="presentableId" value="LOCAL-00020" />
+      <option name="project" value="LOCAL" />
+      <updated>1651770732409</updated>
+    </task>
+    <option name="localTasksCounter" value="21" />
     <servers />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
